@@ -71,8 +71,4 @@ If something isn't on this profile yet, there's a decent chance it's half-built 
 
 <img src="https://streak-stats.demolab.com?user=Tissk-2&theme=tokyonight&hide_border=true" alt="Tissk's GitHub streak" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Tissk-2&style=flat&label=profile+views" alt="Profile views" />
-
 </div>
