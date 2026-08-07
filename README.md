@@ -1,60 +1,78 @@
 <div align="center">
 
-### 👋 Hey, I'm Tissk
+# Tissk
 
-Web & mobile developer. Vocational student (RPL) at SMKN 4 Malang, Indonesia — most of what's here started as a school project that turned into something I kept building after the assignment ended.
+**Web & mobile developer · RPL student at SMKN 4 Malang**
+
+Most things on this profile started as school projects.  
+Some of them got a little out of hand.
 
 </div>
 
-## About Me
+---
 
-- Building with HTML, CSS, JavaScript, and PHP
-- Currently learning Flutter and Dart
-- A lot of these projects come out of PjBL (project-based learning) assignments — I usually end up going further than the brief asks for
-- I'd rather push something rough live than keep polishing it in private
+## About me
 
-## 🛠️ Tech Stack
+I'm a vocational student studying software development (RPL) in Malang, Indonesia.
+
+I mostly work with web development, but I've been spending more time with Flutter lately. A lot of my projects start as PjBL assignments, and I tend to keep building after the assignment is already done.
+
+I'd rather get something working and put it out there than leave it sitting on my machine waiting to be perfect.
+
+## What I use
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,git,github,vscode" alt="Tech Stack" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,git,github,vscode" alt="HTML, CSS, JavaScript, PHP, Dart, Flutter, Git, GitHub and VS Code" />
+
 </div>
 
-## 🚀 Featured Projects
+## Projects
 
-**[ALNU](https://github.com/Tissk-2/ALNU-)** — a site cataloging flora and fauna across the Indonesian archipelago. Has an admin dashboard, a comment system, and user profiles with photo upload.
-`HTML` `Web Development`
+### [ALNU](https://github.com/Tissk-2/ALNU-)
 
-**[ALNU Backend](https://github.com/Tissk-2/ALNU--Backend-)** — the PHP backend that powers ALNU.
-`PHP` `Backend Development`
+A catalog of flora and fauna from across the Indonesian archipelago. It grew beyond the original school assignment and now includes an admin dashboard, comments, and user profiles with photo uploads.
 
-**[SuaRasa](https://github.com/Tissk-2/SuaRasa)** — a mobile app built with Flutter.
-`Flutter` `Dart` `Mobile Development`
+`HTML` `Web`
 
-**[GlitchCalc](https://github.com/Tissk-2/GlitchCalc)** — a calculator with a glitch-inspired look.
-`JavaScript` `Web Development`
+### [ALNU Backend](https://github.com/Tissk-2/ALNU--Backend-)
 
-**[24 Possibilities](https://github.com/Tissk-2/24-Possibilities)** — a browser version of the 24 Game, deployed on Vercel and submitted as a portfolio project at school.
-`HTML` `Web Development`
+The PHP backend for ALNU.
 
-## 📊 GitHub Stats
+`PHP` `Backend`
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tissk-2&show_icons=true&theme=tokyonight&hide_border=true" alt="Tissk's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tissk-2&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
+### [SuaRasa](https://github.com/Tissk-2/SuaRasa)
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Tissk-2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+A mobile app I'm building with Flutter.
+
+`Flutter` `Dart` `Mobile`
+
+### [GlitchCalc](https://github.com/Tissk-2/GlitchCalc)
+
+A JavaScript calculator with a glitch-inspired interface.
+
+`JavaScript` `Web`
+
+### [24 Possibilities](https://github.com/Tissk-2/24-Possibilities)
+
+A browser version of the 24 Game. I built it as a school portfolio project and deployed it on Vercel.
+
+`HTML` `Web`
 
 ## Right now
 
-Mostly splitting time between Flutter and backend work, with a few web projects running in parallel. If it's not on this list yet, it's probably half-built somewhere on my machine.
+I'm splitting my time between Flutter and backend work, with a few web projects running in parallel.
+
+If something isn't on this profile yet, there's a decent chance it's half-built somewhere on my machine.
+
+## Activity
 
 <div align="center">
 
-Thanks for stopping by.
+<img src="https://streak-stats.demolab.com?user=Tissk-2&theme=tokyonight&hide_border=true" alt="Tissk's GitHub streak" />
 
-<img src="https://komarev.com/ghpvc/?username=Tissk-2&style=for-the-badge" alt="Profile Views" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Tissk-2&style=flat&label=profile+views" alt="Profile views" />
 
 </div>
