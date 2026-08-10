@@ -35,9 +35,9 @@ A catalog of flora and fauna from across the Indonesian archipelago. It grew bey
 
 `HTML` `Web`
 
-### [ALNU Backend](https://github.com/Tissk-2/ALNU--Backend-)
+### [Ara-Sinom Website](https://github.com/Tissk-2/ara-sinom-website-)
 
-The PHP backend for ALNU.
+A website for a healthy drink company.
 
 `PHP` `Backend`
 
