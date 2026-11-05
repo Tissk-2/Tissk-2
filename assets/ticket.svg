@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250" role="img" aria-label="Boarding pass. Passenger Tissk, from Malang to Production. Path Erudition, element Quantum, class RPL at SMKN 4 Malang.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1260"/>
+      <stop offset=".55" stop-color="#3b1a7a"/>
+      <stop offset="1" stop-color="#6b1f6e"/>
+    </linearGradient>
+    <linearGradient id="band" x1="0" x2="1">
+      <stop offset="0" stop-color="#4adede"/>
+      <stop offset=".5" stop-color="#ff6ec4"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+    <linearGradient id="holo" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="10" y="10" width="780" height="230" rx="18"/></clipPath>
+    <!-- notches are real holes, so they work on light and dark GitHub themes -->
+    <mask id="notch"><rect width="800" height="250" fill="#fff"/><circle cx="580" cy="10" r="13" fill="#000"/><circle cx="580" cy="240" r="13" fill="#000"/></mask>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', 'Trebuchet MS', Verdana, sans-serif; }
+    .label { fill: #c9b8ff; font-size: 11px; letter-spacing: 1px; }
+    .value { fill: #ffffff; font-size: 19px; font-weight: 700; }
+    .big { fill: #ffffff; font-size: 34px; font-weight: 800; }
+    .mono { font-family: Consolas, 'Courier New', monospace; }
+    .holo { animation: sweep 4.5s ease-in-out infinite; }
+    .dash { animation: march 1.2s linear infinite; }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    @keyframes sweep { 0% { transform: translateX(-300px) skewX(-20deg); } 60%, 100% { transform: translateX(1000px) skewX(-20deg); } }
+    @keyframes march { to { stroke-dashoffset: -16; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .holo { opacity: 0; } }
+  </style>
+
+  <g mask="url(#notch)">
+  <g clip-path="url(#card)">
+    <rect x="10" y="10" width="780" height="230" fill="url(#bg)"/>
+    <rect x="10" y="10" width="780" height="40" fill="url(#band)"/>
+    <text x="34" y="37" fill="#1a0b3d" font-size="17" font-weight="800" letter-spacing="2">✦ STAR RAIL EXPRESS · BOARDING PASS</text>
+    <text x="766" y="37" text-anchor="end" fill="#1a0b3d" font-size="15" font-weight="700" class="mono">NO. TSK-0004</text>
+
+    <!-- route -->
+    <text x="34" y="78" class="label">FROM</text>
+    <text x="34" y="112" class="big">MALANG</text>
+    <text x="300" y="78" class="label">TO</text>
+    <text x="300" y="112" class="big" fill="#ffd166">PRODUCTION</text>
+    <path d="M208 100 h70" stroke="#4adede" stroke-width="3" stroke-dasharray="8 8" class="dash"/>
+    <path d="M276 92 l10 8 l-10 8" fill="none" stroke="#4adede" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- details -->
+    <text x="34" y="150" class="label">PASSENGER</text><text x="34" y="174" class="value">Tissk</text>
+    <text x="170" y="150" class="label">PATH</text><text x="170" y="174" class="value" fill="#4adede">Erudition</text>
+    <text x="320" y="150" class="label">ELEMENT</text><text x="320" y="174" class="value" fill="#ff9ad5">Quantum</text>
+    <text x="34" y="206" class="label">CLASS</text><text x="34" y="228" class="value">RPL · SMKN 4 Malang</text>
+    <text x="320" y="206" class="label">SEAT</text><text x="320" y="228" class="value">wherever the wifi is<tspan class="blink" fill="#ffd166">_</tspan></text>
+
+    <!-- perforation -->
+    <line x1="580" y1="28" x2="580" y2="226" stroke="#c9b8ff" stroke-width="2" stroke-dasharray="4 7" opacity=".7"/>
+
+    <!-- stub -->
+    <text x="604" y="78" class="label">STATUS</text>
+    <text x="604" y="102" class="value" fill="#7df9a6">● BOARDED</text>
+    <text x="604" y="130" class="label">RULE</text>
+    <text x="604" y="150" fill="#ffffff" font-size="13" font-weight="600">Get it working,</text>
+    <text x="604" y="167" fill="#ffffff" font-size="13" font-weight="600">then ship it.</text>
+    <g fill="#ffffff" opacity=".9">
+      <rect x="604" y="186" width="3" height="36"/><rect x="610" y="186" width="1.5" height="36"/><rect x="614" y="186" width="4" height="36"/>
+      <rect x="621" y="186" width="1.5" height="36"/><rect x="625" y="186" width="3" height="36"/><rect x="631" y="186" width="1.5" height="36"/>
+      <rect x="635" y="186" width="5" height="36"/><rect x="643" y="186" width="1.5" height="36"/><rect x="647" y="186" width="3" height="36"/>
+      <rect x="653" y="186" width="1.5" height="36"/><rect x="657" y="186" width="4" height="36"/><rect x="664" y="186" width="2" height="36"/>
+      <rect x="669" y="186" width="1.5" height="36"/><rect x="673" y="186" width="3" height="36"/><rect x="679" y="186" width="5" height="36"/>
+      <rect x="687" y="186" width="1.5" height="36"/><rect x="691" y="186" width="3" height="36"/><rect x="697" y="186" width="1.5" height="36"/>
+      <rect x="701" y="186" width="4" height="36"/><rect x="708" y="186" width="2" height="36"/><rect x="713" y="186" width="3" height="36"/>
+      <rect x="719" y="186" width="1.5" height="36"/><rect x="723" y="186" width="5" height="36"/><rect x="731" y="186" width="1.5" height="36"/>
+      <rect x="735" y="186" width="3" height="36"/><rect x="741" y="186" width="2" height="36"/><rect x="746" y="186" width="4" height="36"/>
+      <rect x="753" y="186" width="1.5" height="36"/><rect x="757" y="186" width="3" height="36"/>
+    </g>
+
+    <rect class="holo" x="0" y="10" width="140" height="230" fill="url(#holo)"/>
+  </g>
+  <rect x="10" y="10" width="780" height="230" rx="18" fill="none" stroke="url(#band)" stroke-width="2.5"/>
+  </g>
+</svg>
