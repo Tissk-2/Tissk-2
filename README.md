@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADEDE,50:7873F5,100:FF6EC4&height=210&section=header&text=Hi%2C%20I%27m%20Tissk%21&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Web%20and%20mobile%20developer%20%E2%9C%A6%20RPL%20%40%20SMKN%204%20Malang&descSize=18&descAlignY=72&fontAlignY=40" alt="Hi, I'm Tissk!" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&pause=1100&color=FF6EC4&center=true&vCenter=true&width=680&lines=Next+stop%3A+production!;Most+of+this+started+as+school+projects;...some+of+them+got+a+little+out+of+hand;May+this+journey+lead+us+starward!" alt="Next stop: production! Most of this started as school projects... some of them got a little out of hand." /></a>
-
 <img src="assets/train.svg" width="100%" alt="A train riding a rainbow rail through a neon nebula past a ringed planet" />
 
 <a href="https://mail.google.com/mail/?view=cm&amp;to=Ajaarpan2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -24,8 +22,6 @@
 ## 🚂 Trailblaze log
 
 I'm a vocational student studying software development (RPL) in **Malang, Indonesia**. I mostly build for the web, and lately I've been spending more time with **Flutter**. A lot of my projects start as PjBL assignments, and I tend to keep building after the assignment is done.
-
-I'd rather get something working and put it out there than leave it sitting on my machine waiting to be perfect.
 
 - **Now building:** [Shin Joy Spa](https://github.com/Tissk-2/Shin-Joy-Spa-Website) (backend) and [Grafidu](https://github.com/Tissk-2/Grafidu) (Next.js)
 - **Leveling up:** Flutter and Dart
