@@ -23,8 +23,6 @@
 
 I'm a vocational student studying software development (RPL) in **Malang, Indonesia**. I mostly build for the web, and lately I've been spending more time with **Flutter**. A lot of my projects start as PjBL assignments, and I tend to keep building after the assignment is done.
 
-I'd rather get something working and put it out there than leave it sitting on my machine waiting to be perfect.
-
 - **Now building:** [Shin Joy Spa](https://github.com/Tissk-2/Shin-Joy-Spa-Website) (backend) and [Grafidu](https://github.com/Tissk-2/Grafidu) (Next.js)
 - **Leveling up:** Flutter and Dart
 - **Off duty:** Clearing endgame content in Honkai: Star Rail
