@@ -29,7 +29,7 @@ I'd rather get something working and put it out there than leave it sitting on m
 
 - **Now building:** [Shin Joy Spa](https://github.com/Tissk-2/Shin-Joy-Spa-Website) (backend) and [Grafidu](https://github.com/Tissk-2/Grafidu) (Next.js)
 - **Leveling up:** Flutter and Dart
-- **Off duty:** riding the rails in Honkai: Star Rail
+- **Off duty:** Clearing endgame content in Honkai: Star Rail
 
 ## Equipped relics
 
