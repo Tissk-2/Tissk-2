@@ -2,14 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADEDE,50:7873F5,100:FF6EC4&height=210&section=header&text=Hi%2C%20I%27m%20Tissk%21&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Web%20and%20mobile%20developer%20%E2%9C%A6%20RPL%20%40%20SMKN%204%20Malang&descSize=18&descAlignY=72&fontAlignY=40" alt="Hi, I'm Tissk!" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&pause=1100&color=FF6EC4&center=true&vCenter=true&width=680&lines=Next+stop%3A+production!;Most+of+this+started+as+school+projects;...some+of+them+got+a+little+out+of+hand;May+this+journey+lead+us+starward!" alt="Next stop: production! Most of this started as school projects... some of them got a little out of hand." /></a>
+
 <img src="assets/train.svg" width="100%" alt="A train riding a rainbow rail through a neon nebula past a ringed planet" />
 
-<a href="mailto:Ajaarpan2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;to=Ajaarpan2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/arfan-akbar-dwinarta-8b068a399/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@arfanypkzt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.instagram.com/arfanypkzt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <img src="https://img.shields.io/badge/Discord-tissk2-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Discord: tissk2" />
-<img src="https://komarev.com/ghpvc/?username=Tissk-2&style=for-the-badge&color=ff6ec4&label=PASSENGERS+ABOARD" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tissk-2&style=for-the-badge&color=ff6ec4&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -19,13 +21,15 @@
 <img src="assets/ticket.svg" width="100%" alt="Boarding pass. Passenger Tissk, from Malang to Production. Path Erudition, element Quantum, class RPL at SMKN 4 Malang." />
 </div>
 
-## Trailblaze log
+## 🚂 Trailblaze log
 
 I'm a vocational student studying software development (RPL) in **Malang, Indonesia**. I mostly build for the web, and lately I've been spending more time with **Flutter**. A lot of my projects start as PjBL assignments, and I tend to keep building after the assignment is done.
 
+I'd rather get something working and put it out there than leave it sitting on my machine waiting to be perfect.
+
 - **Now building:** [Shin Joy Spa](https://github.com/Tissk-2/Shin-Joy-Spa-Website) (backend) and [Grafidu](https://github.com/Tissk-2/Grafidu) (Next.js)
 - **Leveling up:** Flutter and Dart
-- **Off duty:** Clearing endgame content in Honkai: Star Rail
+- **Off duty:** riding the rails in Honkai: Star Rail
 
 ## Equipped relics
 
@@ -61,7 +65,7 @@ I'm a vocational student studying software development (RPL) in **Malang, Indone
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tissk-2&theme=radical" width="100%" alt="Contributions over the last year" />
 </div>
 
-## Snack time
+## 🐍 Snack time
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tissk-2/Tissk-2/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
