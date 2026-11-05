@@ -21,7 +21,7 @@
 <img src="assets/ticket.svg" width="100%" alt="Boarding pass. Passenger Tissk, from Malang to Production. Path Erudition, element Quantum, class RPL at SMKN 4 Malang." />
 </div>
 
-## 🚂 Trailblaze log
+## Trailblaze log
 
 I'm a vocational student studying software development (RPL) in **Malang, Indonesia**. I mostly build for the web, and lately I've been spending more time with **Flutter**. A lot of my projects start as PjBL assignments, and I tend to keep building after the assignment is done.
 
@@ -65,7 +65,7 @@ I'd rather get something working and put it out there than leave it sitting on m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tissk-2&theme=radical" width="100%" alt="Contributions over the last year" />
 </div>
 
-## 🐍 Snack time
+## Snack time
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tissk-2/Tissk-2/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
